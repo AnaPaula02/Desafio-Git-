@@ -3,5 +3,5 @@
 Primeiro Desafio Git e GitHub
 
 ## Links úteis 
-[sintaxe básica Markdown] (https://www.markdownguide.org/getting-started/)
+[sintaxe básica Markdown](https://www.markdownguide.org/getting-started/)
 
